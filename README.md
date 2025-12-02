@@ -59,6 +59,7 @@ Hoje trabalho na **DoQR Tecnologia** criando relatórios dinâmicos e otimizando
 **Solução:** ERP modular com Java 17 + Spring Boot 3 + Angular 18  
 **Status:** Fundação completa (auth, estrutura, Docker). Sprint 2: CRUD clientes/produtos  
 **Desafios:** Estoque FIFO, integração NFe, manutenções automáticas
+⚠️ **Pendente de Envio/Upload:**
 
 🔗 [Ver repositório](https://github.com/sherloCod3/erp-ar-condicionado) · 🎯 Stack: Java, Spring, Angular, PostgreSQL
 
@@ -79,16 +80,18 @@ Hoje trabalho na **DoQR Tecnologia** criando relatórios dinâmicos e otimizando
 **Solução:** App full stack com histórico completo e busca inteligente  
 **Destaques:** Service Layer Pattern, interface para leigos, deploy em produção  
 **Aprendizado:** Primeiro projeto React + Supabase completo
+⚠️ **Pendente de Envio/Upload:**
 
 🔗 [Ver repositório](https://github.com/sherloCod3/sistema-toners) · 🎯 Stack: React, TypeScript, Supabase
 
 ---
 
-### 📊 SQL Portfolio 🏗️
+### 📊 SQL Portfolio ✅
 **Contexto:** Queries reais do trabalho na DoQR Tecnologia  
 **Conteúdo:** CTEs, window functions, otimizações, templates Bold Reports  
 **Destaques:** Exemplos comentados linha a linha, casos de uso real  
 **Aprendizado:** Tradução de requisitos de negócio em SQL eficiente
+⚠️ **Pendente de Envio/Upload:**
 
 🔗 [Ver queries](https://github.com/sherloCod3/sql-portfolio) · 🎯 Stack: MySQL, SQL Avançado, Bold Reports
 
@@ -110,9 +113,10 @@ Hoje trabalho na **DoQR Tecnologia** criando relatórios dinâmicos e otimizando
 Sistema full stack que substituiu planilhas pesadas  
 Stack: React + Node.js + MongoDB · Status: Produção
 
-#### 📱 App CROSS Mobile (Flutter) 🏗️
+#### 📱 App CROSS Mobile (Flutter) ✅
 App de gráficos médicos com export Excel/PDF  
 Stack: Flutter + SQLite + Syncfusion · Status: Refatoração
+⚠️ **Pendente de Envio/Upload:**
 
 ---
 
