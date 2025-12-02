@@ -59,7 +59,8 @@ Hoje trabalho na **DoQR Tecnologia** criando relatórios dinâmicos e otimizando
 **Solução:** ERP modular com Java 17 + Spring Boot 3 + Angular 18  
 **Status:** Fundação completa (auth, estrutura, Docker). Sprint 2: CRUD clientes/produtos  
 **Desafios:** Estoque FIFO, integração NFe, manutenções automáticas
-⚠️ **Pendente de Envio/Upload:**
+
+⚠️ **Pendente de Envio/Upload**
 
 🔗 [Ver repositório](https://github.com/sherloCod3/erp-ar-condicionado) · 🎯 Stack: Java, Spring, Angular, PostgreSQL
 
@@ -71,6 +72,8 @@ Hoje trabalho na **DoQR Tecnologia** criando relatórios dinâmicos e otimizando
 **Resultado:** Tempo de envio reduzido de 5min para 30seg  
 **Destaques:** Arquivo único HTML+JS, tratamento robusto de erros, progress tracking
 
+⚠️ **Pendente de Envio/Upload**
+
 🔗 [Ver código](https://github.com/sherloCod3/cross-upload-system) · 🎯 Stack: JavaScript, Google Drive API, Tailwind
 
 ---
@@ -80,7 +83,8 @@ Hoje trabalho na **DoQR Tecnologia** criando relatórios dinâmicos e otimizando
 **Solução:** App full stack com histórico completo e busca inteligente  
 **Destaques:** Service Layer Pattern, interface para leigos, deploy em produção  
 **Aprendizado:** Primeiro projeto React + Supabase completo
-⚠️ **Pendente de Envio/Upload:**
+
+⚠️ **Pendente de Envio/Upload**
 
 🔗 [Ver repositório](https://github.com/sherloCod3/sistema-toners) · 🎯 Stack: React, TypeScript, Supabase
 
@@ -91,7 +95,8 @@ Hoje trabalho na **DoQR Tecnologia** criando relatórios dinâmicos e otimizando
 **Conteúdo:** CTEs, window functions, otimizações, templates Bold Reports  
 **Destaques:** Exemplos comentados linha a linha, casos de uso real  
 **Aprendizado:** Tradução de requisitos de negócio em SQL eficiente
-⚠️ **Pendente de Envio/Upload:**
+
+⚠️ **Pendente de Envio/Upload**
 
 🔗 [Ver queries](https://github.com/sherloCod3/sql-portfolio) · 🎯 Stack: MySQL, SQL Avançado, Bold Reports
 
@@ -103,7 +108,7 @@ Hoje trabalho na **DoQR Tecnologia** criando relatórios dinâmicos e otimizando
 **Status:** Edição básica pronta. Em desenvolvimento: joins, filtros avançados  
 **Aprendizado:** Tkinter + Pandas, padrão Observer, virtualização de dados
 
-🔗 [Ver código](https://github.com/sherloCod3/excel-editor-pandas) · 🎯 Stack: Python, Pandas, Tkinter
+🔗 [Ver código](https://github.com/sherloCod3/excel-editor-pandas-tkinter) · 🎯 Stack: Python, Pandas, Tkinter
 
 ---
 
@@ -116,7 +121,8 @@ Stack: React + Node.js + MongoDB · Status: Produção
 #### 📱 App CROSS Mobile (Flutter) ✅
 App de gráficos médicos com export Excel/PDF  
 Stack: Flutter + SQLite + Syncfusion · Status: Refatoração
-⚠️ **Pendente de Envio/Upload:**
+
+⚠️ **Pendente de Envio/Upload**
 
 ---
 
