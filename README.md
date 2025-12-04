@@ -11,7 +11,7 @@ Desenvolvedor **Full Stack Jr** especializado em criar **sistemas web para peque
 Minha trajetória: **administrativo → suporte técnico → desenvolvimento**. Aprendi que código só importa quando **resolve problema de verdade**.
 
 **O que já entreguei:**
-- ✅ Sistema de inventário com 500+ itens gerenciados em produção 24/7
+- ✅ Sistema de inventário com diversos itens gerenciados em produção 24/7
 - ✅ Controle de toners com rastreabilidade completa
 - ✅ Automação de uploads que reduziu tempo em 90%
 
