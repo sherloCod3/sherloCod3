@@ -80,7 +80,9 @@ Hoje trabalho na **DoQR Tecnologia** com SQL/Relatórios, e nos projetos pessoai
 **Impacto:** Eliminou planilhas manuais, histórico de 2 anos de trocas organizado  
 **Destaques:** Service Layer Pattern, interface para usuários leigos, autenticação segura
 
-🔗 [Ver repositório](https://github.com/sherloCod3/sistema-toners) · 🎯 Stack: React, TypeScript, Supabase, Vite
+🔧 - Projeto em Reorganização para Upload
+<!-- 🔗 [Ver repositório](https://github.com/sherloCod3/sistema-toners) --> 
+· 🎯 Stack: React, TypeScript, Supabase, Vite
 
 **Aprendizado principal:** Service Layer Pattern aplicado em React + integração Supabase
 
@@ -92,7 +94,10 @@ Hoje trabalho na **DoQR Tecnologia** com SQL/Relatórios, e nos projetos pessoai
 **Impacto:** Tempo reduzido para 30 segundos (90% de economia)  
 **Destaques:** Arquivo único HTML+JS, tratamento robusto de erros, progress tracking em tempo real
 
-🔗 [Ver código](https://github.com/sherloCod3/cross-upload-system) · 🎯 Stack: JavaScript, Google Drive API, Tailwind CSS
+✅ - Projeto Finalizado e Pronto para Upload
+
+<!-- 🔗 [Ver código](https://github.com/sherloCod3/cross-upload-system) -->
+· 🎯 Stack: JavaScript, Google Drive API, Tailwind CSS
 
 **Aprendizado principal:** Integração OAuth2 sem backend complexo + otimização de UX
 
@@ -105,7 +110,8 @@ Hoje trabalho na **DoQR Tecnologia** com SQL/Relatórios, e nos projetos pessoai
 **Conteúdo:** CTEs, window functions, otimizações, templates Bold Reports  
 **Destaques:** Exemplos comentados linha a linha + casos de uso real  
 
-🔗 [Ver queries](https://github.com/sherloCod3/sql-portfolio) · 🎯 Stack: MySQL, SQL Avançado, Bold Reports
+<!-- 🔗 [Ver queries](https://github.com/sherloCod3/sql-portfolio) -->
+· 🎯 Stack: MySQL, SQL Avançado, Bold Reports
 
 ---
 
