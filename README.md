@@ -146,10 +146,12 @@ Hoje trabalho na **DoQR Tecnologia** com SQL/Relatórios, e nos projetos pessoai
 ## 📈 GitHub Stats
 
 <div align="center">
-  
+
   [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/sherlocod3?cardType=github&theme=github-dark&fontFamily=Fira%20Sans&preferLogin=false)](https://git.io/awesome-stats-card)
+
+  [![Top Langs](https://github-readme-stats.ujwalkandi.vercel.app/api/top-langs/?username=sherlocod3&layout=compact&langs_count=6&theme=onedark)](https://github.com/sherlocod3)
   
-  ![Top Langs](https://github-readme-stats-nine-gamma.vercel.app/api/top-langs/?username=sherloCod3&layout=compact&theme=onedark&hide_border=true&langs_count=6)
+  <!-- ![Top Langs](https://github-readme-stats-nine-gamma.vercel.app/api/top-langs/?username=sherloCod3&layout=compact&theme=onedark&hide_border=true&langs_count=6) -->
 
 </div>
 
