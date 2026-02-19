@@ -1,237 +1,139 @@
 <div align="center">
-  
-  ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:4A90E2,100:50C878&height=200&section=header&text=Alexandre%20Cavalari&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Dev%20Full%20Stack%20Jr%20%7C%20Transformo%20problemas%20reais%20em%20sistemas%20funcionais&descAlignY=55&descSize=18)
 
-</div>
+# Alexandre Cavalari
 
-## 👋 Sobre mim
+**Full Stack Developer · JavaScript / TypeScript · Node.js · React · Java**
 
-Desenvolvedor **Full Stack Jr** especializado em criar **sistemas web para pequenas empresas e instituições de saúde**.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/alexandre-cavalari-lp)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:alexandre.cavalari@outlook.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/5514991165008)
 
-Minha trajetória: **administrativo → suporte técnico → desenvolvimento**. Aprendi que código só importa quando **resolve problema de verdade**.
-
-**O que já entreguei:**
-- ✅ Sistema de inventário com diversos itens gerenciados em produção 24/7
-- ✅ Controle de toners com rastreabilidade completa
-- ✅ Automação de uploads que reduziu tempo em 90%
-
-Hoje trabalho na **DoQR Tecnologia** com SQL/Relatórios, e nos projetos pessoais foco em **React + Node.js** para criar sistemas completos do zero até deploy.
-
-**🎯 Momento atual:** desenvolvendo MVPs para pequenas empresas e buscando **primeiros clientes como freela** + oportunidades **Full Stack Jr/Pleno**.
-
-**💡 Filosofia:** "Entregar funcionando > código perfeito. Sempre."
-
----
-
-## 🛠️ Stack Principal
-
-<div align="center">
-
-### Frontend & Backend
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-### Dados & APIs
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-### Também trabalho com
-![Java](https://img.shields.io/badge/Java_17-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-
-### Ferramentas
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+📍 Lençóis Paulista, SP · Disponível para remoto
 
 </div>
 
 ---
 
-## 🚀 Projetos em Produção
+## Sobre mim
 
-### 🏥 Sistema de Inventário - UPA ✅ 🏆
-**Problema:** Controle de patrimônio em planilhas pesadas, sem rastreabilidade e auditorias complexas  
-**Solução:** Sistema full stack com CRUD completo, autenticação JWT, exportação CSV e relatórios  
-**Impacto:** 500+ itens gerenciados, disponibilidade 24/7, auditorias automatizadas  
-**Destaques:** 
-- API REST completa (Node.js + Express + MongoDB)
-- Frontend responsivo (React + TypeScript + Tailwind)
-- Autenticação segura com JWT
-- Exportação de dados para auditorias
-- Paginação otimizada para grandes volumes
-- Sistema crítico em produção há 8+ meses
+Desenvolvedor Full Stack com foco em **JavaScript/TypeScript**, atuando em sistemas críticos de produção na área de saúde e relatórios analíticos. Tenho experiência prática construindo APIs REST, pipelines ETL, autenticação JWT e otimização de queries SQL — do levantamento de requisito ao deploy.
 
-🔗 [Ver repositório](https://github.com/sherloCod3/sistema-inventario) · 🎯 Stack: React, TypeScript, Node.js, Express, MongoDB, JWT
+Base complementar em **Java/Spring Boot**, aplicada em projetos com dados reais (50k+ registros).
 
-**Aprendizado principal:** Arquitetar sistema completo do zero (backend + frontend + auth + deploy em ambiente crítico)
+Cursando **Engenharia de Software** e **ADS**. Busco oportunidade Full Stack para aprofundar boas práticas de engenharia em ambiente com mentoria técnica.
 
 ---
 
-### 📦 Sistema de Toners ✅
-**Problema:** Sem rastreabilidade de trocas de toner na empresa  
-**Solução:** App full stack com histórico completo e busca inteligente  
-**Impacto:** Eliminou planilhas manuais, histórico de 2 anos de trocas organizado  
-**Destaques:** Service Layer Pattern, interface para usuários leigos, autenticação segura
-
-🔧 - Projeto em Reorganização para Upload
-<!-- 🔗 [Ver repositório](https://github.com/sherloCod3/sistema-toners) --> 
-· 🎯 Stack: React, TypeScript, Supabase, Vite
-
-**Aprendizado principal:** Service Layer Pattern aplicado em React + integração Supabase
-
----
-
-### 🏥 CROSS Upload System ✅
-**Problema:** UPA enviando tomografias manualmente para Google Drive (5min por envio)  
-**Solução:** Sistema web com OAuth2 que automatiza upload + organização por pastas  
-**Impacto:** Tempo reduzido para 30 segundos (90% de economia)  
-**Destaques:** Arquivo único HTML+JS, tratamento robusto de erros, progress tracking em tempo real
-
-✅ - Projeto Finalizado e Pronto para Upload
-
-<!-- 🔗 [Ver código](https://github.com/sherloCod3/cross-upload-system) -->
-· 🎯 Stack: JavaScript, Google Drive API, Tailwind CSS
-
-**Aprendizado principal:** Integração OAuth2 sem backend complexo + otimização de UX
-
----
-
-## 🏗️ Projetos em Desenvolvimento
-
-### 📊 SQL Portfolio ✅
-**Contexto:** Queries reais do trabalho na DoQR Tecnologia  
-**Conteúdo:** CTEs, window functions, otimizações, templates Bold Reports  
-**Destaques:** Exemplos comentados linha a linha + casos de uso real  
-
-<!-- 🔗 [Ver queries](https://github.com/sherloCod3/sql-portfolio) -->
-· 🎯 Stack: MySQL, SQL Avançado, Bold Reports
-
----
-
-### 📊 Editor Excel Pandas 🏗️ ![Status](https://img.shields.io/badge/MVP-50%25-yellow)
-**Problema:** Usuários leigos precisam manipular Excel sem fórmulas complexas  
-**Solução:** GUI desktop que expõe poder do Pandas visualmente  
-**Status:** Edição básica pronta, em desenvolvimento: joins e filtros avançados  
-
-🔗 [Ver código](https://github.com/sherloCod3/excel-editor-pandas-tkinter) · 🎯 Stack: Python, Pandas, Tkinter
-
----
-
-### ❄️ ERP Ar-Condicionado 🏗️ ![Status](https://img.shields.io/badge/Pausado-Replanejamento-orange)
-**Contexto:** Empresa de climatização sem sistema integrado  
-**Stack inicial:** Java 17 + Spring Boot 3 + Angular 18  
-**Status:** Fundação auth + estrutura Docker completa (30% MVP)  
-**Próximo passo:** Avaliando migração para stack JavaScript para acelerar MVP
-
-🎯 Aprendizado: Importância de validar escopo ANTES de iniciar projeto grande
-
----
-
-## 📖 Legenda
-
-✅ **Em Produção** — Sistema funcionando com usuários reais  
-🏆 **Destaque** — Projeto mais completo tecnicamente  
-🏗️ **Em Desenvolvimento** — Funcionalidades core prontas, refinando features  
-![Badge](https://img.shields.io/badge/Status-Info-color) — Status atual do projeto
-
----
-
-## 📈 GitHub Stats
+## Stack
 
 <div align="center">
 
-  [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/sherlocod3?cardType=github&theme=github-dark&fontFamily=Fira%20Sans&preferLogin=false)](https://git.io/awesome-stats-card)
+**Principal**
 
-  [![Top Langs](https://github-readme-stats.ujwalkandi.vercel.app/api/top-langs/?username=sherlocod3&layout=compact&langs_count=6&theme=onedark)](https://github.com/sherlocod3)
-  
-  <!-- ![Top Langs](https://github-readme-stats-nine-gamma.vercel.app/api/top-langs/?username=sherloCod3&layout=compact&theme=onedark&hide_border=true&langs_count=6) -->
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+
+**Banco de Dados**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+**Infraestrutura**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+**Complementar**
+
+![Java](https://img.shields.io/badge/Java_17-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white)
 
 </div>
 
 ---
 
-## 🎯 O Que Estou Buscando
+## Projetos
 
-### 💼 Oportunidades
+### [QReports](https://github.com/sherlocod3/reporting-platform-prototype) — Plataforma de Relatórios
+> `Node.js` `TypeScript` `React 19` `MySQL` `Puppeteer` `Docker Compose`
 
-**Freelas/Projetos:**
-- Sistemas de gestão para pequenas empresas (inventário, CRM, dashboards)
-- Integrações com APIs (Google Drive, WhatsApp, ERPs)
-- Dashboards e relatórios personalizados
-- Automações de processos manuais
+Plataforma self-hosted para execução segura de SQL e geração de PDFs profissionais. Inspirada em ferramentas enterprise como Bold Reports.
 
-**CLT/PJ:**
-- Desenvolvedor Full Stack Jr/Pleno
-- Ambientes com mentorias técnicas e code review
-- Projetos com impacto real (saúde, educação, social)
+- Validação de queries em múltiplas camadas (segurança e sanitização)
+- Geração de PDF via Puppeteer com layout profissional
+- TypeScript end-to-end; containerização completa com Docker Compose
+- Rate limiting, tratamento de erros centralizado
 
-### 🚀 Foco Técnico Atual
-
-- ✅ Consolidar React + Node.js em projetos completos (backend + frontend + auth)
-- ✅ Arquitetura limpa e padrões de projeto (Service Layer, Repository)
-- ✅ Deploy e manutenção de aplicações críticas em produção
-- ✅ APIs REST robustas, seguras e documentadas
-
-**Stack em evolução:** TypeScript, NestJS, testes automatizados (Jest, Cypress)
+> **Status:** Em desenvolvimento ativo · v0.1.0 funcional
 
 ---
 
-## 💼 Experiência Profissional
+### [Health Data Analytics](https://github.com/sherlocod3/teste-intuitive-care) — Pipeline ETL + API REST
+> `Java 17` `Spring Boot 3.2` `PostgreSQL` `JPA/Hibernate` `Docker`
 
-**Desenvolvedor de Relatórios** @ DoQR Tecnologia *(Jun/2024 - Atual)*
-- Desenvolvimento de relatórios dinâmicos com Bold Reports
-- Otimização de queries SQL complexas (CTEs, Window Functions, índices)
-- Tradução de requisitos de negócio em estruturas de dados eficientes
-- Stack: MySQL, SQL Avançado, Bold Reports
+Pipeline ETL para dados públicos da ANS com API REST documentada.
 
-**Técnico de TI** @ UPA Lençóis Paulista *(Abr/2024 - Jun/2024)*
-- Manutenção de sistemas críticos 24/7 (disponibilidade 99.8%)
-- Desenvolvimento de 3 sistemas internos (inventário, uploads, controles)
-- Primeiro contato com desenvolvimento full stack em produção real
-- Experiência com usuários não-técnicos e requisitos dinâmicos
+- Processamento de 303k registros → 792 únicos após validação e agregação
+- Validação de CNPJ, integridade referencial, normalização de dados
+- API documentada com Swagger UI; arquitetura Controller → Service → Repository
+- Ambiente zero-setup com Dockerfile e DevContainer
+
+> **Status:** Em desenvolvimento ativo · Frontend Vue.js em progresso
 
 ---
 
-## 📚 Formação
+### Sistema de Inventário Hospitalar — (Produção)
+> `Node.js` `Express` `MongoDB` `React` `TypeScript` `JWT`
 
-**Tecnólogo em Análise e Desenvolvimento de Sistemas**  
-Faculdade Católica Paulista · 2025-2027 (em andamento)
+Sistema full stack desenvolvido para a UPA Lençóis Paulista, em operação 24/7.
 
-**Bootcamps & Cursos Principais:**
-- Backend Java + Spring Boot (250h ao vivo)
-- React & TypeScript (projetos práticos)
-- SQL Avançado (queries de produção)
-- Node.js & APIs REST
+- 500+ itens gerenciados; 20+ usuários diários; 8+ meses sem incidentes críticos
+- Autenticação JWT com refresh tokens; CRUD completo com validações em múltiplas camadas
+- Eliminou 100% do controle manual por planilhas; auditorias reduzidas de 2 dias para 30 min
+
+> **Status:** Produção · Código privado (ambiente hospitalar)
 
 ---
 
-## 📫 Contato
+### [SQL Portfolio](https://github.com/sherlocod3/sql-portfolio)
+> `MySQL` `PostgreSQL` `SQL Avançado`
+
+Queries reais do trabalho na DoQR Tecnologia: CTEs, Window Functions, otimizações e análise de performance.
+
+- Otimizações documentadas com `EXPLAIN` e comparação antes/depois
+- Queries com impacto mensurável: redução de 8s → 1,2s em consultas críticas
+- Bases com 500k+ registros
+
+---
+
+## Experiência
+
+**DoQR Tecnologia** · Desenvolvedor de Relatórios · `Jun/2025 – Atual`
+> MySQL · PostgreSQL · SQL Avançado · Node.js
+
+**UPA Lençóis Paulista** · Desenvolvedor de Sistemas / TI · `Abr/2024 – Jun/2025`
+> Node.js · React · TypeScript · MongoDB · PostgreSQL · JWT · Docker
+
+**Softcon Informática** · Assistente de Suporte · `Set/2021 – Out/2023`
+> Java (análise de logs) · SQL · ERP
+
+---
+
+## Formação
+
+- **Engenharia de Software** · FACINT · 2025–2029 *(cursando)*
+- **Tecnólogo ADS** · Faculdade Católica Paulista · 2025–2027 *(cursando)*
+- **Backend Java + Spring Boot** · 250h · Java 17, Spring Boot 3, JPA/Hibernate, JUnit/Mockito
+
+---
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alexandre-cavalari-lp)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexandre.cavalari@outlook.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sherloCod3)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5514991165008)
-
-**📍 Lençóis Paulista, SP, Brasil**  
-**💼 Disponível para freelas e oportunidades Full Stack Jr/Pleno**
-
-</div>
-
----
-
-<div align="center">
-  
-  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:4A90E2,100:50C878&height=100&section=footer)
-  
-  **⭐ Se meus projetos te ajudaram, considere dar uma estrela! Feedbacks são sempre bem-vindos.**
+*Código disponível. Feedbacks técnicos são sempre bem-vindos.*
 
 </div>
