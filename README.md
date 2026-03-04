@@ -59,7 +59,7 @@ Cursando **Engenharia de Software** e **ADS**. Busco oportunidade Full Stack par
 
 ## Projetos
 
-### [QReports](https://github.com/sherlocod3/reporting-platform-prototype) — Plataforma de Relatórios
+### [Reporting Platform Prototype](https://github.com/sherlocod3/reporting-platform-prototype) — Plataforma de Relatórios
 > `Node.js` `TypeScript` `React 19` `MySQL` `Puppeteer` `Docker Compose`
 
 Plataforma self-hosted para execução segura de SQL e geração de PDFs profissionais. Inspirada em ferramentas enterprise como Bold Reports.
