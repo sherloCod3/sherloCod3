@@ -52,6 +52,7 @@ Cursando **Engenharia de Software** e **ADS**. Busco oportunidade Full Stack par
 
 ![Java](https://img.shields.io/badge/Java_17-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=unity&logoColor=white)
 
 </div>
 
